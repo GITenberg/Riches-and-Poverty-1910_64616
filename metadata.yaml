@@ -1,0 +1,41 @@
+_repo: Riches-and-Poverty-1910_64616
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Money, L. G. Chiozza (Leo George Chiozza)
+    aliases:
+    - Money, Leo George Chiozza
+    - Chiozza Money, L. G. (Leo George)
+    - Chiozza, Leone Giorgio
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '52987'
+    url: http://www.gutenberg.org/2009/agents/52987
+    wikipedia: https://en.wikipedia.org/wiki/Leo_Chiozza_Money
+description: ''
+gutenberg_issued: '2021-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HC'
+- !lcsh 'Poor -- Great Britain -- History'
+- !lcsh 'Working class -- Great Britain -- History'
+- !lcsh 'Finance -- Great Britain -- History'
+- !lcsh 'Great Britain -- Economic conditions -- 19th century'
+- GITenberg
+tableOfContents: 'Book I. The error of distribution: Thoughts arising out of a great
+  controversy. The national income. Distribution of the national income. The estates
+  of rich and poor. The national accumulations. The monopoly of capital. The area
+  of the United Kingdom. Those who work and those who wait. Profits, bad trade and
+  unemployment. Part of their wages. Consequences. The waste of capital -- Book II.
+  Towards organization: The golden key. The nation''s children. The school. The home.
+  The empty country. Organization. The aged poor. Adam Smith''s first maxim of taxation.
+  The main instrument of taxation. The death duties. Of revenue without taxation.
+  Conclusion.'
+title: Riches and Poverty (1910)
+url: http://www.gutenberg.org/ebooks/64616
